@@ -1,15 +1,3 @@
-# ************************************************************
-# Example Data for the Process Cube Explorer
-# https://github.com/pgmpm/ProcessCubeExplorer
-#
-# Sequel Pro SQL dump
-# Version 4096
-#
-# http://www.sequelpro.com/
-# http://code.google.com/p/sequel-pro/
-#
-# Generation Time: 2014-03-17 18:51:47 +0000
-# ************************************************************
 
 
 /*!40101 SET @OLD_CHARACTER_SET_CLIENT=@@CHARACTER_SET_CLIENT */;
