@@ -1,5 +1,3 @@
-﻿Copyright 2014 Projektgruppe MPM. All Rights Reserved.
-
 This file is part of Process Cube Explorer.
 
 Process Cube Explorer is free software: you can redistribute it and/or modify
